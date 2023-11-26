@@ -1,0 +1,18 @@
+.nameContainer {
+  background: #A72069;
+  background: repeating-radial-gradient(circle farthest-side at center center, #A72069 0%, #121FCF 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: name 5s forwards;
+}
+
+@keyframes name {
+  0% {
+    filter: blur(8px);
+    transform: scale(0.7);
+  }
+  100% {
+    filter: none;
+    transform: scale(1);
+  }
+}
