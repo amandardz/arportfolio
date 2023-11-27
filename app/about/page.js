@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import Link from 'next/link';
 import avatar from '../../public/avatar.png';
 import style from './about.module.css';
 
@@ -17,9 +18,9 @@ export default function About() {
         <p className='text-primary-content md:text-2xl font-bold'>
           Hello World! My name is Amanda Rodriguez. I have experience in
           designing, developing, and deploying interactive user-centric
-          applications using front-end and backend technologies and languages
+          applications using front-end and backend technologies and programming languages
           such as HTML, CSS, Javascript, React, MySQL, SQL, GraphQL, and more
-          (check out my GitHub Profile). I enjoy learning new things, working on
+          <Link href='https://github.com/amandardz' target='_blank'>(check out my GitHub Profile)</Link>. I enjoy learning new things, working on
           projects that broaden my horizons, and discovering fresh perspectives.
           I also like coming up with creative solutions to problems and finding
           innovative ways to solve them so that the applications I develop offer
