@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 export default function Navigation() {
   return (
-    <ul className='menu menu-horizontal bg-neutral-content flex justify-end text-xl'>
+    <ul className='menu menu-horizontal bg-dark-white flex justify-end text-xl'>
       <li className='tooltip tooltip-bottom tooltip-primary' data-tip='home'>
         <Link href='/'>
           <i className='bi bi-house'></i>
@@ -18,7 +18,7 @@ export default function Navigation() {
         className='tooltip tooltip-bottom tooltip-primary'
         data-tip='portfolio'
       >
-        <Link href=''>
+        <Link href='/portfolio'>
           <i className='bi bi-code-square'></i>
         </Link>
       </li>

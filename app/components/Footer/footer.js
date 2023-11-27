@@ -2,8 +2,8 @@
 
 export default function Footer() {
   return (
-    <footer className='grid grid-cols-2 items-center px-2.5 bg-neutral-content'>
-      <p className='text-sm md:text-base'>
+    <footer className='grid grid-cols-2 items-center px-2.5 bg-dark-white'>
+      <p className='text-sm md:text-main'>
         Copyright © 2023 - All right reserved
       </p>
       <div className='place-self-end'>
