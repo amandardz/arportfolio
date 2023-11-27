@@ -18,7 +18,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang='en' data-theme='fantasy'>
       <body className={inter.className}>
-        <main className='bg-base-content brightness-150, contrast-150 flex flex-col justify-between min-h-screen'>
+        <main className='bg-main flex flex-col justify-between min-h-screen'>
           <Navigation />
             {children}
           <Footer />
