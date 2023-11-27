@@ -1,6 +1,6 @@
 .nameContainer {
-  background: #A72069;
-  background: repeating-radial-gradient(circle farthest-side at center center, #A72069 0%, #121FCF 100%);
+  background: #e4cee5;
+  background: repeating-radial-gradient(circle farthest-side at center center, #89acc6 0%, #b792b9 50%,#e5cfe6 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   animation: name 5s forwards;

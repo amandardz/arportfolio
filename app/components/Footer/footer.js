@@ -12,7 +12,7 @@ export default function Footer() {
             <a
               href='https://github.com/amandardz'
               target='_blank'
-              className='tooltip tooltip-primary'
+              className='tooltip'
               data-tip='GitHub'
             >
               <i className='bi bi-github'></i>
@@ -22,7 +22,7 @@ export default function Footer() {
             <a
               href='https://www.linkedin.com/in/amandardz/'
               target='_blank'
-              className=' tooltip tooltip-primary'
+              className=' tooltip'
               data-tip='LinkedIn'
             >
               <i className='bi bi-linkedin'></i>
