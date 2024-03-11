@@ -24,7 +24,7 @@ export default function About() {
           innovative ways to solve them so that the applications I develop offer
           positive user experiences. I am excited about the prospect of
           contributing to innovative projects, working with fellow developers,
-          and making meaningful impact through my work. Check out the applications I've created in the portfolio section. I'd love to hear what you think and receive any feedback. Get in contact with me by clicking on the icons below. 
+          and making meaningful impact through my work. Check out the applications I&apos;ve created in the portfolio section. I&apos;d love to hear what you think and receive any feedback. Get in contact with me by clicking on the icons below. 
         </p>
       </div>
     </div>
