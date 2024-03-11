@@ -5,7 +5,7 @@ import style from './about.module.css';
 
 export default function About() {
   return (
-    <div className='p-10 border-4 rounded-md'>
+    <div className='p-10 border-4 rounded-md lg:mx-auto lg:my-0 lg:w-10/12'>
       <div className='text-secondary-content text-center font-bold text-3xl mb-5'>
         About me
       </div>
