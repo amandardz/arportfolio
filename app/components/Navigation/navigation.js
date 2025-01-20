@@ -22,6 +22,14 @@ export default function Navigation() {
           <i className='bi bi-code-square'></i>
         </Link>
       </li>
+      <li
+        className='tooltip tooltip-bottom'
+        data-tip='design'
+      >
+        <Link href='/design'>
+          <i className='bi bi-pencil'></i>
+        </Link>
+      </li>
     </ul>
   );
 }
