@@ -4,7 +4,10 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   animation: name 5s forwards;
+  height: 100%;
 }
+
+
 
 @keyframes name {
   0% {

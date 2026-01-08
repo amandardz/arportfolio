@@ -5,7 +5,8 @@ export default function Hero() {
   return (
     <div className={`${style.nameContainer} text-base font-bold text-center`}>
       <p className='text-3xl md:text-7xl lg:text-10xl'>Amanda Rodriguez</p>
-      <p className='text-xl md:text-3xl lg:text-5xl'>Full Stack Developer</p>
+      <p className='text-xl md:text-3xl lg:text-4xl'>Build • Empower • Inspire</p>
+      <br></br>
     </div>
   );
 }

@@ -16,15 +16,17 @@ export default function About() {
           alt='Image of a woman smiling by Sara Pelaez from Blush Collections Women Power'
         />
         <p className='text-primary-content md:text-2xl font-bold'>
-          Hello World! My name is Amanda Rodriguez. I have experience in
-          designing, developing, and deploying interactive user-centric
-          applications with programming languages and front-end and backend technologies such as HTML, CSS, Javascript, React, MySQL, SQL, GraphQL, and more <Link className='underline' href='https://github.com/amandardz' target='_blank'>(check out my GitHub Profile)</Link>. I enjoy learning new things, working on
-          projects that broaden my horizons, and discovering fresh perspectives.
-          I also like coming up with creative solutions to problems and finding
-          innovative ways to solve them so that the applications I develop offer
-          positive user experiences. I am excited about the prospect of
-          contributing to innovative projects, working with fellow developers,
-          and making meaningful impact through my work. Check out the applications I&apos;ve created in the portfolio section. I&apos;d love to hear what you think and receive any feedback. Get in contact with me by clicking on the icons below. 
+          Hello! I’m Amanda Rodriguez. I bring ideas to life by creating
+          solutions that connect with people, solve problems, and inspire
+          action. My work spans designing, building, and delivering interactive
+          experiences that are thoughtful, user-focused, and meaningful. I’m
+          passionate about education, empowerment, and giving voices to those
+          who might not always be heard. Through collaboration, creative
+          problem-solving, and leading projects from concept to completion, I
+          strive to make an impact in every project I touch. My goal is to
+          Build. Empower. Inspire. Check out my portfolio to see the projects
+          I’ve brought to life — I’d love to hear your thoughts and feedback.
+          You can reach me through the icons below.
         </p>
       </div>
     </div>

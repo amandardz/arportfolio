@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer className='grid grid-cols-2 items-center px-2.5 bg-dark-white'>
       <p className='text-sm md:text-main'>
-        Copyright © 2023 - All right reserved
+        Copyright © 2025 - All right reserved
       </p>
       <div className='place-self-end'>
         <ul className='menu menu-horizontal text-2xl'>
@@ -20,12 +20,12 @@ export default function Footer() {
           </li>
           <li>
             <a
-              href='https://www.linkedin.com/in/amandardz/'
+              href='mailto:amandardz15@gmail.com'
               target='_blank'
-              className=' tooltip'
-              data-tip='LinkedIn'
+              className='tooltip'
+              data-tip='Email'
             >
-              <i className='bi bi-linkedin'></i>
+              <i className='bi bi-envelope-at'></i>
             </a>
           </li>
         </ul>

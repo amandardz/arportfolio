@@ -6,7 +6,7 @@ export default function DesignCard({ id, title, image }) {
   return (
     <div
       key={id}
-      className='h-4/5 w-full overflow-hidden rounded-lg bg-gray-200 xl:aspect-h-8 xl:aspect-w-7 group-hover:scale-105'
+      className='h-auto w-full overflow-hidden rounded-lg bg-gray-200 xl:aspect-h-8 xl:aspect-w-7 group-hover:scale-105'
     >
       <Image
         src={image}
